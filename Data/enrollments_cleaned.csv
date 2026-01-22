@@ -1,0 +1,985 @@
+year,sex,enrolled,obs_flag,isced11_code,isced11_desc,iscedf13_code,iscedf13_desc,macro_area
+2016,Female,0.0,,ED5,Short-cycle tertiary education,F00,Generic programmes and qualifications,Cross-disciplinary
+2017,Female,0.0,,ED5,Short-cycle tertiary education,F00,Generic programmes and qualifications,Cross-disciplinary
+2018,Female,0.0,,ED5,Short-cycle tertiary education,F00,Generic programmes and qualifications,Cross-disciplinary
+2019,Female,0.0,,ED5,Short-cycle tertiary education,F00,Generic programmes and qualifications,Cross-disciplinary
+2020,Female,0.0,,ED5,Short-cycle tertiary education,F00,Generic programmes and qualifications,Cross-disciplinary
+2021,Female,0.0,,ED5,Short-cycle tertiary education,F00,Generic programmes and qualifications,Cross-disciplinary
+2022,Female,0.0,,ED5,Short-cycle tertiary education,F00,Generic programmes and qualifications,Cross-disciplinary
+2023,Female,0.0,,ED5,Short-cycle tertiary education,F00,Generic programmes and qualifications,Cross-disciplinary
+2016,Male,0.0,,ED5,Short-cycle tertiary education,F00,Generic programmes and qualifications,Cross-disciplinary
+2017,Male,0.0,,ED5,Short-cycle tertiary education,F00,Generic programmes and qualifications,Cross-disciplinary
+2018,Male,0.0,,ED5,Short-cycle tertiary education,F00,Generic programmes and qualifications,Cross-disciplinary
+2019,Male,0.0,,ED5,Short-cycle tertiary education,F00,Generic programmes and qualifications,Cross-disciplinary
+2020,Male,0.0,,ED5,Short-cycle tertiary education,F00,Generic programmes and qualifications,Cross-disciplinary
+2021,Male,0.0,,ED5,Short-cycle tertiary education,F00,Generic programmes and qualifications,Cross-disciplinary
+2022,Male,0.0,,ED5,Short-cycle tertiary education,F00,Generic programmes and qualifications,Cross-disciplinary
+2023,Male,0.0,,ED5,Short-cycle tertiary education,F00,Generic programmes and qualifications,Cross-disciplinary
+2015,Female,0.0,,ED6,Bachelor's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2016,Female,0.0,,ED6,Bachelor's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2017,Female,0.0,,ED6,Bachelor's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2018,Female,0.0,,ED6,Bachelor's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2019,Female,0.0,,ED6,Bachelor's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2020,Female,0.0,,ED6,Bachelor's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2021,Female,0.0,,ED6,Bachelor's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2022,Female,0.0,,ED6,Bachelor's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2023,Female,0.0,,ED6,Bachelor's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2015,Male,0.0,,ED6,Bachelor's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2016,Male,0.0,,ED6,Bachelor's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2017,Male,0.0,,ED6,Bachelor's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2018,Male,0.0,,ED6,Bachelor's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2019,Male,0.0,,ED6,Bachelor's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2020,Male,0.0,,ED6,Bachelor's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2021,Male,0.0,,ED6,Bachelor's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2022,Male,0.0,,ED6,Bachelor's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2023,Male,0.0,,ED6,Bachelor's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2015,Female,0.0,,ED7,Master's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2016,Female,0.0,,ED7,Master's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2017,Female,0.0,,ED7,Master's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2018,Female,0.0,,ED7,Master's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2019,Female,0.0,,ED7,Master's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2020,Female,0.0,,ED7,Master's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2021,Female,0.0,,ED7,Master's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2022,Female,0.0,,ED7,Master's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2023,Female,0.0,,ED7,Master's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2015,Male,0.0,,ED7,Master's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2016,Male,0.0,,ED7,Master's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2017,Male,0.0,,ED7,Master's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2018,Male,0.0,,ED7,Master's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2019,Male,0.0,,ED7,Master's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2020,Male,0.0,,ED7,Master's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2021,Male,0.0,,ED7,Master's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2022,Male,0.0,,ED7,Master's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2023,Male,0.0,,ED7,Master's or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2015,Female,0.0,,ED8,Doctoral or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2016,Female,0.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2017,Female,0.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2018,Female,0.0,,ED8,Doctoral or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2019,Female,0.0,,ED8,Doctoral or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2020,Female,0.0,,ED8,Doctoral or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2021,Female,0.0,,ED8,Doctoral or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2022,Female,0.0,,ED8,Doctoral or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2023,Female,0.0,,ED8,Doctoral or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2015,Male,0.0,,ED8,Doctoral or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2016,Male,0.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2017,Male,0.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2018,Male,0.0,,ED8,Doctoral or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2019,Male,0.0,,ED8,Doctoral or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2020,Male,0.0,,ED8,Doctoral or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2021,Male,0.0,,ED8,Doctoral or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2022,Male,0.0,,ED8,Doctoral or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2023,Male,0.0,,ED8,Doctoral or equivalent level,F00,Generic programmes and qualifications,Cross-disciplinary
+2013,Female,0.0,,ED5,Short-cycle tertiary education,F01,Education,Cross-disciplinary
+2016,Female,0.0,,ED5,Short-cycle tertiary education,F01,Education,Cross-disciplinary
+2017,Female,0.0,,ED5,Short-cycle tertiary education,F01,Education,Cross-disciplinary
+2018,Female,0.0,,ED5,Short-cycle tertiary education,F01,Education,Cross-disciplinary
+2019,Female,0.0,,ED5,Short-cycle tertiary education,F01,Education,Cross-disciplinary
+2020,Female,0.0,,ED5,Short-cycle tertiary education,F01,Education,Cross-disciplinary
+2021,Female,0.0,,ED5,Short-cycle tertiary education,F01,Education,Cross-disciplinary
+2022,Female,0.0,,ED5,Short-cycle tertiary education,F01,Education,Cross-disciplinary
+2023,Female,0.0,,ED5,Short-cycle tertiary education,F01,Education,Cross-disciplinary
+2013,Male,0.0,,ED5,Short-cycle tertiary education,F01,Education,Cross-disciplinary
+2016,Male,0.0,,ED5,Short-cycle tertiary education,F01,Education,Cross-disciplinary
+2017,Male,0.0,,ED5,Short-cycle tertiary education,F01,Education,Cross-disciplinary
+2018,Male,0.0,,ED5,Short-cycle tertiary education,F01,Education,Cross-disciplinary
+2019,Male,0.0,,ED5,Short-cycle tertiary education,F01,Education,Cross-disciplinary
+2020,Male,0.0,,ED5,Short-cycle tertiary education,F01,Education,Cross-disciplinary
+2021,Male,0.0,,ED5,Short-cycle tertiary education,F01,Education,Cross-disciplinary
+2022,Male,0.0,,ED5,Short-cycle tertiary education,F01,Education,Cross-disciplinary
+2023,Male,0.0,,ED5,Short-cycle tertiary education,F01,Education,Cross-disciplinary
+2013,Female,49079.0,,ED6,Bachelor's or equivalent level,F01,Education,Cross-disciplinary
+2014,Female,47125.0,,ED6,Bachelor's or equivalent level,F01,Education,Cross-disciplinary
+2015,Female,42734.0,,ED6,Bachelor's or equivalent level,F01,Education,Cross-disciplinary
+2016,Female,41142.0,,ED6,Bachelor's or equivalent level,F01,Education,Cross-disciplinary
+2017,Female,42146.0,,ED6,Bachelor's or equivalent level,F01,Education,Cross-disciplinary
+2018,Female,44352.0,,ED6,Bachelor's or equivalent level,F01,Education,Cross-disciplinary
+2019,Female,58034.0,,ED6,Bachelor's or equivalent level,F01,Education,Cross-disciplinary
+2020,Female,80588.0,,ED6,Bachelor's or equivalent level,F01,Education,Cross-disciplinary
+2021,Female,65993.0,,ED6,Bachelor's or equivalent level,F01,Education,Cross-disciplinary
+2022,Female,70389.0,,ED6,Bachelor's or equivalent level,F01,Education,Cross-disciplinary
+2023,Female,64828.0,,ED6,Bachelor's or equivalent level,F01,Education,Cross-disciplinary
+2013,Male,5003.0,,ED6,Bachelor's or equivalent level,F01,Education,Cross-disciplinary
+2014,Male,4760.0,,ED6,Bachelor's or equivalent level,F01,Education,Cross-disciplinary
+2015,Male,4147.0,,ED6,Bachelor's or equivalent level,F01,Education,Cross-disciplinary
+2016,Male,4080.0,,ED6,Bachelor's or equivalent level,F01,Education,Cross-disciplinary
+2017,Male,4547.0,,ED6,Bachelor's or equivalent level,F01,Education,Cross-disciplinary
+2018,Male,4837.0,,ED6,Bachelor's or equivalent level,F01,Education,Cross-disciplinary
+2019,Male,9010.0,,ED6,Bachelor's or equivalent level,F01,Education,Cross-disciplinary
+2020,Male,16502.0,,ED6,Bachelor's or equivalent level,F01,Education,Cross-disciplinary
+2021,Male,8791.0,,ED6,Bachelor's or equivalent level,F01,Education,Cross-disciplinary
+2022,Male,9135.0,,ED6,Bachelor's or equivalent level,F01,Education,Cross-disciplinary
+2023,Male,6006.0,,ED6,Bachelor's or equivalent level,F01,Education,Cross-disciplinary
+2013,Female,34422.0,,ED7,Master's or equivalent level,F01,Education,Cross-disciplinary
+2014,Female,38324.0,,ED7,Master's or equivalent level,F01,Education,Cross-disciplinary
+2015,Female,30126.0,,ED7,Master's or equivalent level,F01,Education,Cross-disciplinary
+2016,Female,33417.0,,ED7,Master's or equivalent level,F01,Education,Cross-disciplinary
+2017,Female,35666.0,,ED7,Master's or equivalent level,F01,Education,Cross-disciplinary
+2018,Female,39509.0,,ED7,Master's or equivalent level,F01,Education,Cross-disciplinary
+2019,Female,43673.0,,ED7,Master's or equivalent level,F01,Education,Cross-disciplinary
+2020,Female,47678.0,,ED7,Master's or equivalent level,F01,Education,Cross-disciplinary
+2021,Female,52052.0,,ED7,Master's or equivalent level,F01,Education,Cross-disciplinary
+2022,Female,54005.0,,ED7,Master's or equivalent level,F01,Education,Cross-disciplinary
+2023,Female,53986.0,,ED7,Master's or equivalent level,F01,Education,Cross-disciplinary
+2013,Male,2611.0,,ED7,Master's or equivalent level,F01,Education,Cross-disciplinary
+2014,Male,3468.0,,ED7,Master's or equivalent level,F01,Education,Cross-disciplinary
+2015,Male,2020.0,,ED7,Master's or equivalent level,F01,Education,Cross-disciplinary
+2016,Male,2214.0,,ED7,Master's or equivalent level,F01,Education,Cross-disciplinary
+2017,Male,2332.0,,ED7,Master's or equivalent level,F01,Education,Cross-disciplinary
+2018,Male,2697.0,,ED7,Master's or equivalent level,F01,Education,Cross-disciplinary
+2019,Male,3128.0,,ED7,Master's or equivalent level,F01,Education,Cross-disciplinary
+2020,Male,3704.0,,ED7,Master's or equivalent level,F01,Education,Cross-disciplinary
+2021,Male,4125.0,,ED7,Master's or equivalent level,F01,Education,Cross-disciplinary
+2022,Male,4407.0,,ED7,Master's or equivalent level,F01,Education,Cross-disciplinary
+2023,Male,4042.0,,ED7,Master's or equivalent level,F01,Education,Cross-disciplinary
+2013,Female,381.0,,ED8,Doctoral or equivalent level,F01,Education,Cross-disciplinary
+2014,Female,334.0,,ED8,Doctoral or equivalent level,F01,Education,Cross-disciplinary
+2015,Female,157.0,,ED8,Doctoral or equivalent level,F01,Education,Cross-disciplinary
+2016,Female,116.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F01,Education,Cross-disciplinary
+2017,Female,82.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F01,Education,Cross-disciplinary
+2018,Female,81.0,,ED8,Doctoral or equivalent level,F01,Education,Cross-disciplinary
+2019,Female,283.0,,ED8,Doctoral or equivalent level,F01,Education,Cross-disciplinary
+2020,Female,298.0,,ED8,Doctoral or equivalent level,F01,Education,Cross-disciplinary
+2021,Female,315.0,,ED8,Doctoral or equivalent level,F01,Education,Cross-disciplinary
+2022,Female,359.0,,ED8,Doctoral or equivalent level,F01,Education,Cross-disciplinary
+2023,Female,336.0,,ED8,Doctoral or equivalent level,F01,Education,Cross-disciplinary
+2013,Male,167.0,,ED8,Doctoral or equivalent level,F01,Education,Cross-disciplinary
+2014,Male,150.0,,ED8,Doctoral or equivalent level,F01,Education,Cross-disciplinary
+2015,Male,55.0,,ED8,Doctoral or equivalent level,F01,Education,Cross-disciplinary
+2016,Male,39.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F01,Education,Cross-disciplinary
+2017,Male,33.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F01,Education,Cross-disciplinary
+2018,Male,32.0,,ED8,Doctoral or equivalent level,F01,Education,Cross-disciplinary
+2019,Male,130.0,,ED8,Doctoral or equivalent level,F01,Education,Cross-disciplinary
+2020,Male,107.0,,ED8,Doctoral or equivalent level,F01,Education,Cross-disciplinary
+2021,Male,125.0,,ED8,Doctoral or equivalent level,F01,Education,Cross-disciplinary
+2022,Male,177.0,,ED8,Doctoral or equivalent level,F01,Education,Cross-disciplinary
+2023,Male,154.0,,ED8,Doctoral or equivalent level,F01,Education,Cross-disciplinary
+2013,Female,0.0,,ED5,Short-cycle tertiary education,F02,Arts and humanities,Humanities
+2016,Female,422.0,,ED5,Short-cycle tertiary education,F02,Arts and humanities,Humanities
+2017,Female,184.0,,ED5,Short-cycle tertiary education,F02,Arts and humanities,Humanities
+2018,Female,191.0,,ED5,Short-cycle tertiary education,F02,Arts and humanities,Humanities
+2019,Female,185.0,,ED5,Short-cycle tertiary education,F02,Arts and humanities,Humanities
+2020,Female,237.0,,ED5,Short-cycle tertiary education,F02,Arts and humanities,Humanities
+2021,Female,1106.0,,ED5,Short-cycle tertiary education,F02,Arts and humanities,Humanities
+2022,Female,708.0,,ED5,Short-cycle tertiary education,F02,Arts and humanities,Humanities
+2023,Female,966.0,,ED5,Short-cycle tertiary education,F02,Arts and humanities,Humanities
+2013,Male,0.0,,ED5,Short-cycle tertiary education,F02,Arts and humanities,Humanities
+2016,Male,375.0,,ED5,Short-cycle tertiary education,F02,Arts and humanities,Humanities
+2017,Male,164.0,,ED5,Short-cycle tertiary education,F02,Arts and humanities,Humanities
+2018,Male,130.0,,ED5,Short-cycle tertiary education,F02,Arts and humanities,Humanities
+2019,Male,87.0,,ED5,Short-cycle tertiary education,F02,Arts and humanities,Humanities
+2020,Male,204.0,,ED5,Short-cycle tertiary education,F02,Arts and humanities,Humanities
+2021,Male,1103.0,,ED5,Short-cycle tertiary education,F02,Arts and humanities,Humanities
+2022,Male,925.0,,ED5,Short-cycle tertiary education,F02,Arts and humanities,Humanities
+2023,Male,1165.0,,ED5,Short-cycle tertiary education,F02,Arts and humanities,Humanities
+2013,Female,147921.0,,ED6,Bachelor's or equivalent level,F02,Arts and humanities,Humanities
+2014,Female,147541.0,,ED6,Bachelor's or equivalent level,F02,Arts and humanities,Humanities
+2015,Female,150859.0,,ED6,Bachelor's or equivalent level,F02,Arts and humanities,Humanities
+2016,Female,151992.0,,ED6,Bachelor's or equivalent level,F02,Arts and humanities,Humanities
+2017,Female,155902.0,,ED6,Bachelor's or equivalent level,F02,Arts and humanities,Humanities
+2018,Female,161749.0,,ED6,Bachelor's or equivalent level,F02,Arts and humanities,Humanities
+2019,Female,165707.0,,ED6,Bachelor's or equivalent level,F02,Arts and humanities,Humanities
+2020,Female,170115.0,,ED6,Bachelor's or equivalent level,F02,Arts and humanities,Humanities
+2021,Female,173433.0,,ED6,Bachelor's or equivalent level,F02,Arts and humanities,Humanities
+2022,Female,174384.0,,ED6,Bachelor's or equivalent level,F02,Arts and humanities,Humanities
+2023,Female,176047.0,,ED6,Bachelor's or equivalent level,F02,Arts and humanities,Humanities
+2013,Male,60956.0,,ED6,Bachelor's or equivalent level,F02,Arts and humanities,Humanities
+2014,Male,62975.0,,ED6,Bachelor's or equivalent level,F02,Arts and humanities,Humanities
+2015,Male,67303.0,,ED6,Bachelor's or equivalent level,F02,Arts and humanities,Humanities
+2016,Male,68853.0,,ED6,Bachelor's or equivalent level,F02,Arts and humanities,Humanities
+2017,Male,71887.0,,ED6,Bachelor's or equivalent level,F02,Arts and humanities,Humanities
+2018,Male,74602.0,,ED6,Bachelor's or equivalent level,F02,Arts and humanities,Humanities
+2019,Male,76159.0,,ED6,Bachelor's or equivalent level,F02,Arts and humanities,Humanities
+2020,Male,78116.0,,ED6,Bachelor's or equivalent level,F02,Arts and humanities,Humanities
+2021,Male,80199.0,,ED6,Bachelor's or equivalent level,F02,Arts and humanities,Humanities
+2022,Male,80841.0,,ED6,Bachelor's or equivalent level,F02,Arts and humanities,Humanities
+2023,Male,82393.0,,ED6,Bachelor's or equivalent level,F02,Arts and humanities,Humanities
+2013,Female,50752.0,,ED7,Master's or equivalent level,F02,Arts and humanities,Humanities
+2014,Female,49400.0,,ED7,Master's or equivalent level,F02,Arts and humanities,Humanities
+2015,Female,43992.0,,ED7,Master's or equivalent level,F02,Arts and humanities,Humanities
+2016,Female,46202.0,,ED7,Master's or equivalent level,F02,Arts and humanities,Humanities
+2017,Female,46670.0,,ED7,Master's or equivalent level,F02,Arts and humanities,Humanities
+2018,Female,49658.0,,ED7,Master's or equivalent level,F02,Arts and humanities,Humanities
+2019,Female,52927.0,,ED7,Master's or equivalent level,F02,Arts and humanities,Humanities
+2020,Female,56037.0,,ED7,Master's or equivalent level,F02,Arts and humanities,Humanities
+2021,Female,62838.0,,ED7,Master's or equivalent level,F02,Arts and humanities,Humanities
+2022,Female,65551.0,,ED7,Master's or equivalent level,F02,Arts and humanities,Humanities
+2023,Female,66511.0,,ED7,Master's or equivalent level,F02,Arts and humanities,Humanities
+2013,Male,18951.0,,ED7,Master's or equivalent level,F02,Arts and humanities,Humanities
+2014,Male,18809.0,,ED7,Master's or equivalent level,F02,Arts and humanities,Humanities
+2015,Male,17851.0,,ED7,Master's or equivalent level,F02,Arts and humanities,Humanities
+2016,Male,19133.0,,ED7,Master's or equivalent level,F02,Arts and humanities,Humanities
+2017,Male,20125.0,,ED7,Master's or equivalent level,F02,Arts and humanities,Humanities
+2018,Male,21564.0,,ED7,Master's or equivalent level,F02,Arts and humanities,Humanities
+2019,Male,23200.0,,ED7,Master's or equivalent level,F02,Arts and humanities,Humanities
+2020,Male,24895.0,,ED7,Master's or equivalent level,F02,Arts and humanities,Humanities
+2021,Male,27592.0,,ED7,Master's or equivalent level,F02,Arts and humanities,Humanities
+2022,Male,28446.0,,ED7,Master's or equivalent level,F02,Arts and humanities,Humanities
+2023,Male,28846.0,,ED7,Master's or equivalent level,F02,Arts and humanities,Humanities
+2013,Female,2522.0,,ED8,Doctoral or equivalent level,F02,Arts and humanities,Humanities
+2014,Female,2308.0,,ED8,Doctoral or equivalent level,F02,Arts and humanities,Humanities
+2015,Female,2316.0,,ED8,Doctoral or equivalent level,F02,Arts and humanities,Humanities
+2016,Female,2150.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F02,Arts and humanities,Humanities
+2017,Female,1961.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F02,Arts and humanities,Humanities
+2018,Female,2011.0,,ED8,Doctoral or equivalent level,F02,Arts and humanities,Humanities
+2019,Female,1778.0,,ED8,Doctoral or equivalent level,F02,Arts and humanities,Humanities
+2020,Female,1818.0,,ED8,Doctoral or equivalent level,F02,Arts and humanities,Humanities
+2021,Female,1919.0,,ED8,Doctoral or equivalent level,F02,Arts and humanities,Humanities
+2022,Female,2131.0,,ED8,Doctoral or equivalent level,F02,Arts and humanities,Humanities
+2023,Female,2438.0,,ED8,Doctoral or equivalent level,F02,Arts and humanities,Humanities
+2013,Male,1771.0,,ED8,Doctoral or equivalent level,F02,Arts and humanities,Humanities
+2014,Male,1620.0,,ED8,Doctoral or equivalent level,F02,Arts and humanities,Humanities
+2015,Male,1613.0,,ED8,Doctoral or equivalent level,F02,Arts and humanities,Humanities
+2016,Male,1497.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F02,Arts and humanities,Humanities
+2017,Male,1386.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F02,Arts and humanities,Humanities
+2018,Male,1412.0,,ED8,Doctoral or equivalent level,F02,Arts and humanities,Humanities
+2019,Male,1358.0,,ED8,Doctoral or equivalent level,F02,Arts and humanities,Humanities
+2020,Male,1396.0,,ED8,Doctoral or equivalent level,F02,Arts and humanities,Humanities
+2021,Male,1496.0,,ED8,Doctoral or equivalent level,F02,Arts and humanities,Humanities
+2022,Male,1611.0,,ED8,Doctoral or equivalent level,F02,Arts and humanities,Humanities
+2023,Male,1773.0,,ED8,Doctoral or equivalent level,F02,Arts and humanities,Humanities
+2013,Female,0.0,,ED5,Short-cycle tertiary education,F03,"Social sciences, journalism and information",Soft Sciences
+2016,Female,394.0,,ED5,Short-cycle tertiary education,F03,"Social sciences, journalism and information",Soft Sciences
+2017,Female,0.0,,ED5,Short-cycle tertiary education,F03,"Social sciences, journalism and information",Soft Sciences
+2018,Female,0.0,,ED5,Short-cycle tertiary education,F03,"Social sciences, journalism and information",Soft Sciences
+2019,Female,0.0,,ED5,Short-cycle tertiary education,F03,"Social sciences, journalism and information",Soft Sciences
+2020,Female,0.0,,ED5,Short-cycle tertiary education,F03,"Social sciences, journalism and information",Soft Sciences
+2021,Female,0.0,,ED5,Short-cycle tertiary education,F03,"Social sciences, journalism and information",Soft Sciences
+2022,Female,0.0,,ED5,Short-cycle tertiary education,F03,"Social sciences, journalism and information",Soft Sciences
+2023,Female,0.0,,ED5,Short-cycle tertiary education,F03,"Social sciences, journalism and information",Soft Sciences
+2013,Male,0.0,,ED5,Short-cycle tertiary education,F03,"Social sciences, journalism and information",Soft Sciences
+2016,Male,228.0,,ED5,Short-cycle tertiary education,F03,"Social sciences, journalism and information",Soft Sciences
+2017,Male,0.0,,ED5,Short-cycle tertiary education,F03,"Social sciences, journalism and information",Soft Sciences
+2018,Male,0.0,,ED5,Short-cycle tertiary education,F03,"Social sciences, journalism and information",Soft Sciences
+2019,Male,0.0,,ED5,Short-cycle tertiary education,F03,"Social sciences, journalism and information",Soft Sciences
+2020,Male,0.0,,ED5,Short-cycle tertiary education,F03,"Social sciences, journalism and information",Soft Sciences
+2021,Male,0.0,,ED5,Short-cycle tertiary education,F03,"Social sciences, journalism and information",Soft Sciences
+2022,Male,0.0,,ED5,Short-cycle tertiary education,F03,"Social sciences, journalism and information",Soft Sciences
+2023,Male,0.0,,ED5,Short-cycle tertiary education,F03,"Social sciences, journalism and information",Soft Sciences
+2013,Female,105713.0,,ED6,Bachelor's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2014,Female,102807.0,,ED6,Bachelor's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2015,Female,113248.0,,ED6,Bachelor's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2016,Female,106061.0,,ED6,Bachelor's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2017,Female,106408.0,,ED6,Bachelor's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2018,Female,106261.0,,ED6,Bachelor's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2019,Female,110859.0,,ED6,Bachelor's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2020,Female,115852.0,,ED6,Bachelor's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2021,Female,125004.0,,ED6,Bachelor's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2022,Female,131139.0,,ED6,Bachelor's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2023,Female,142569.0,,ED6,Bachelor's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2013,Male,70833.0,,ED6,Bachelor's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2014,Male,70069.0,,ED6,Bachelor's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2015,Male,77374.0,,ED6,Bachelor's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2016,Male,54494.0,,ED6,Bachelor's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2017,Male,55744.0,,ED6,Bachelor's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2018,Male,77563.0,,ED6,Bachelor's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2019,Male,79500.0,,ED6,Bachelor's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2020,Male,80134.0,,ED6,Bachelor's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2021,Male,83635.0,,ED6,Bachelor's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2022,Male,83228.0,,ED6,Bachelor's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2023,Male,86044.0,,ED6,Bachelor's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2013,Female,38385.0,,ED7,Master's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2014,Female,37285.0,,ED7,Master's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2015,Female,39300.0,,ED7,Master's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2016,Female,40121.0,,ED7,Master's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2017,Female,39527.0,,ED7,Master's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2018,Female,41346.0,,ED7,Master's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2019,Female,45160.0,,ED7,Master's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2020,Female,48640.0,,ED7,Master's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2021,Female,53859.0,,ED7,Master's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2022,Female,56048.0,,ED7,Master's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2023,Female,56443.0,,ED7,Master's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2013,Male,18197.0,,ED7,Master's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2014,Male,17466.0,,ED7,Master's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2015,Male,19015.0,,ED7,Master's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2016,Male,15048.0,,ED7,Master's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2017,Male,15039.0,,ED7,Master's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2018,Male,22540.0,,ED7,Master's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2019,Male,25276.0,,ED7,Master's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2020,Male,26953.0,,ED7,Master's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2021,Male,28875.0,,ED7,Master's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2022,Male,28823.0,,ED7,Master's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2023,Male,28044.0,,ED7,Master's or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2013,Female,1399.0,,ED8,Doctoral or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2014,Female,1247.0,,ED8,Doctoral or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2015,Female,1210.0,,ED8,Doctoral or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2016,Female,1183.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2017,Female,1056.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2018,Female,1010.0,,ED8,Doctoral or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2019,Female,1085.0,,ED8,Doctoral or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2020,Female,1276.0,,ED8,Doctoral or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2021,Female,1380.0,,ED8,Doctoral or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2022,Female,1610.0,,ED8,Doctoral or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2023,Female,1693.0,,ED8,Doctoral or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2013,Male,1082.0,,ED8,Doctoral or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2014,Male,952.0,,ED8,Doctoral or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2015,Male,946.0,,ED8,Doctoral or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2016,Male,986.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2017,Male,877.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2018,Male,906.0,,ED8,Doctoral or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2019,Male,978.0,,ED8,Doctoral or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2020,Male,1097.0,,ED8,Doctoral or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2021,Male,1216.0,,ED8,Doctoral or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2022,Male,1366.0,,ED8,Doctoral or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2023,Male,1353.0,,ED8,Doctoral or equivalent level,F03,"Social sciences, journalism and information",Soft Sciences
+2013,Female,22.0,,ED5,Short-cycle tertiary education,F04,"Business, administration and law",Soft Sciences
+2016,Female,543.0,,ED5,Short-cycle tertiary education,F04,"Business, administration and law",Soft Sciences
+2017,Female,518.0,,ED5,Short-cycle tertiary education,F04,"Business, administration and law",Soft Sciences
+2018,Female,495.0,,ED5,Short-cycle tertiary education,F04,"Business, administration and law",Soft Sciences
+2019,Female,726.0,,ED5,Short-cycle tertiary education,F04,"Business, administration and law",Soft Sciences
+2020,Female,854.0,,ED5,Short-cycle tertiary education,F04,"Business, administration and law",Soft Sciences
+2021,Female,900.0,,ED5,Short-cycle tertiary education,F04,"Business, administration and law",Soft Sciences
+2022,Female,1716.0,,ED5,Short-cycle tertiary education,F04,"Business, administration and law",Soft Sciences
+2023,Female,1714.0,,ED5,Short-cycle tertiary education,F04,"Business, administration and law",Soft Sciences
+2013,Male,225.0,,ED5,Short-cycle tertiary education,F04,"Business, administration and law",Soft Sciences
+2016,Male,1552.0,,ED5,Short-cycle tertiary education,F04,"Business, administration and law",Soft Sciences
+2017,Male,863.0,,ED5,Short-cycle tertiary education,F04,"Business, administration and law",Soft Sciences
+2018,Male,1019.0,,ED5,Short-cycle tertiary education,F04,"Business, administration and law",Soft Sciences
+2019,Male,1549.0,,ED5,Short-cycle tertiary education,F04,"Business, administration and law",Soft Sciences
+2020,Male,1773.0,,ED5,Short-cycle tertiary education,F04,"Business, administration and law",Soft Sciences
+2021,Male,3005.0,,ED5,Short-cycle tertiary education,F04,"Business, administration and law",Soft Sciences
+2022,Male,1787.0,,ED5,Short-cycle tertiary education,F04,"Business, administration and law",Soft Sciences
+2023,Male,1993.0,,ED5,Short-cycle tertiary education,F04,"Business, administration and law",Soft Sciences
+2013,Female,85531.0,,ED6,Bachelor's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2014,Female,81108.0,,ED6,Bachelor's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2015,Female,68860.0,,ED6,Bachelor's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2016,Female,84388.0,,ED6,Bachelor's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2017,Female,84451.0,,ED6,Bachelor's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2018,Female,69534.0,,ED6,Bachelor's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2019,Female,77482.0,,ED6,Bachelor's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2020,Female,82979.0,,ED6,Bachelor's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2021,Female,87277.0,,ED6,Bachelor's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2022,Female,91707.0,,ED6,Bachelor's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2023,Female,97587.0,,ED6,Bachelor's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2013,Male,88455.0,,ED6,Bachelor's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2014,Male,84992.0,,ED6,Bachelor's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2015,Male,75931.0,,ED6,Bachelor's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2016,Male,98484.0,,ED6,Bachelor's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2017,Male,100527.0,,ED6,Bachelor's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2018,Male,82291.0,,ED6,Bachelor's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2019,Male,89708.0,,ED6,Bachelor's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2020,Male,95014.0,,ED6,Bachelor's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2021,Male,100162.0,,ED6,Bachelor's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2022,Male,105147.0,,ED6,Bachelor's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2023,Male,109940.0,,ED6,Bachelor's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2013,Female,136197.0,,ED7,Master's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2014,Female,131910.0,,ED7,Master's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2015,Female,116228.0,,ED7,Master's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2016,Female,119748.0,,ED7,Master's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2017,Female,114092.0,,ED7,Master's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2018,Female,106000.0,,ED7,Master's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2019,Female,104268.0,,ED7,Master's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2020,Female,101997.0,,ED7,Master's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2021,Female,102623.0,,ED7,Master's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2022,Female,100720.0,,ED7,Master's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2023,Female,101421.0,,ED7,Master's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2013,Male,88545.0,,ED7,Master's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2014,Male,87269.0,,ED7,Master's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2015,Male,77181.0,,ED7,Master's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2016,Male,82185.0,,ED7,Master's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2017,Male,80934.0,,ED7,Master's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2018,Male,74050.0,,ED7,Master's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2019,Male,73670.0,,ED7,Master's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2020,Male,71749.0,,ED7,Master's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2021,Male,72045.0,,ED7,Master's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2022,Male,69228.0,,ED7,Master's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2023,Male,68467.0,,ED7,Master's or equivalent level,F04,"Business, administration and law",Soft Sciences
+2013,Female,1906.0,,ED8,Doctoral or equivalent level,F04,"Business, administration and law",Soft Sciences
+2014,Female,1842.0,,ED8,Doctoral or equivalent level,F04,"Business, administration and law",Soft Sciences
+2015,Female,1846.0,,ED8,Doctoral or equivalent level,F04,"Business, administration and law",Soft Sciences
+2016,Female,1627.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F04,"Business, administration and law",Soft Sciences
+2017,Female,1431.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F04,"Business, administration and law",Soft Sciences
+2018,Female,1490.0,,ED8,Doctoral or equivalent level,F04,"Business, administration and law",Soft Sciences
+2019,Female,1466.0,,ED8,Doctoral or equivalent level,F04,"Business, administration and law",Soft Sciences
+2020,Female,1548.0,,ED8,Doctoral or equivalent level,F04,"Business, administration and law",Soft Sciences
+2021,Female,1621.0,,ED8,Doctoral or equivalent level,F04,"Business, administration and law",Soft Sciences
+2022,Female,1742.0,,ED8,Doctoral or equivalent level,F04,"Business, administration and law",Soft Sciences
+2023,Female,1985.0,,ED8,Doctoral or equivalent level,F04,"Business, administration and law",Soft Sciences
+2013,Male,1752.0,,ED8,Doctoral or equivalent level,F04,"Business, administration and law",Soft Sciences
+2014,Male,1766.0,,ED8,Doctoral or equivalent level,F04,"Business, administration and law",Soft Sciences
+2015,Male,1743.0,,ED8,Doctoral or equivalent level,F04,"Business, administration and law",Soft Sciences
+2016,Male,1506.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F04,"Business, administration and law",Soft Sciences
+2017,Male,1355.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F04,"Business, administration and law",Soft Sciences
+2018,Male,1438.0,,ED8,Doctoral or equivalent level,F04,"Business, administration and law",Soft Sciences
+2019,Male,1444.0,,ED8,Doctoral or equivalent level,F04,"Business, administration and law",Soft Sciences
+2020,Male,1493.0,,ED8,Doctoral or equivalent level,F04,"Business, administration and law",Soft Sciences
+2021,Male,1542.0,,ED8,Doctoral or equivalent level,F04,"Business, administration and law",Soft Sciences
+2022,Male,1694.0,,ED8,Doctoral or equivalent level,F04,"Business, administration and law",Soft Sciences
+2023,Male,1831.0,,ED8,Doctoral or equivalent level,F04,"Business, administration and law",Soft Sciences
+2016,Female,171.0,,ED5,Short-cycle tertiary education,F05,"Natural sciences, mathematics and statistics",STEM
+2017,Female,271.0,,ED5,Short-cycle tertiary education,F05,"Natural sciences, mathematics and statistics",STEM
+2018,Female,304.0,,ED5,Short-cycle tertiary education,F05,"Natural sciences, mathematics and statistics",STEM
+2019,Female,349.0,,ED5,Short-cycle tertiary education,F05,"Natural sciences, mathematics and statistics",STEM
+2020,Female,324.0,,ED5,Short-cycle tertiary education,F05,"Natural sciences, mathematics and statistics",STEM
+2021,Female,385.0,,ED5,Short-cycle tertiary education,F05,"Natural sciences, mathematics and statistics",STEM
+2022,Female,0.0,,ED5,Short-cycle tertiary education,F05,"Natural sciences, mathematics and statistics",STEM
+2023,Female,0.0,,ED5,Short-cycle tertiary education,F05,"Natural sciences, mathematics and statistics",STEM
+2016,Male,387.0,,ED5,Short-cycle tertiary education,F05,"Natural sciences, mathematics and statistics",STEM
+2017,Male,621.0,,ED5,Short-cycle tertiary education,F05,"Natural sciences, mathematics and statistics",STEM
+2018,Male,650.0,,ED5,Short-cycle tertiary education,F05,"Natural sciences, mathematics and statistics",STEM
+2019,Male,738.0,,ED5,Short-cycle tertiary education,F05,"Natural sciences, mathematics and statistics",STEM
+2020,Male,800.0,,ED5,Short-cycle tertiary education,F05,"Natural sciences, mathematics and statistics",STEM
+2021,Male,1041.0,,ED5,Short-cycle tertiary education,F05,"Natural sciences, mathematics and statistics",STEM
+2022,Male,0.0,,ED5,Short-cycle tertiary education,F05,"Natural sciences, mathematics and statistics",STEM
+2023,Male,0.0,,ED5,Short-cycle tertiary education,F05,"Natural sciences, mathematics and statistics",STEM
+2013,Female,59626.0,,ED6,Bachelor's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2014,Female,56108.0,,ED6,Bachelor's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2015,Female,54219.0,,ED6,Bachelor's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2016,Female,55293.0,,ED6,Bachelor's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2017,Female,57159.0,,ED6,Bachelor's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2018,Female,60036.0,,ED6,Bachelor's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2019,Female,61759.0,,ED6,Bachelor's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2020,Female,62817.0,,ED6,Bachelor's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2021,Female,64503.0,,ED6,Bachelor's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2022,Female,63528.0,,ED6,Bachelor's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2023,Female,64406.0,,ED6,Bachelor's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2013,Male,42101.0,,ED6,Bachelor's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2014,Male,40441.0,,ED6,Bachelor's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2015,Male,40756.0,,ED6,Bachelor's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2016,Male,42069.0,,ED6,Bachelor's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2017,Male,43998.0,,ED6,Bachelor's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2018,Male,45940.0,,ED6,Bachelor's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2019,Male,46883.0,,ED6,Bachelor's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2020,Male,47825.0,,ED6,Bachelor's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2021,Male,48285.0,,ED6,Bachelor's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2022,Male,47724.0,,ED6,Bachelor's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2023,Male,48540.0,,ED6,Bachelor's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2013,Female,16647.0,,ED7,Master's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2014,Female,16383.0,,ED7,Master's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2015,Female,19139.0,,ED7,Master's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2016,Female,20153.0,,ED7,Master's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2017,Female,20292.0,,ED7,Master's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2018,Female,21340.0,,ED7,Master's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2019,Female,23355.0,,ED7,Master's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2020,Female,24435.0,,ED7,Master's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2021,Female,28531.0,,ED7,Master's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2022,Female,29854.0,,ED7,Master's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2023,Female,31094.0,,ED7,Master's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2013,Male,12417.0,,ED7,Master's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2014,Male,12357.0,,ED7,Master's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2015,Male,12909.0,,ED7,Master's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2016,Male,13946.0,,ED7,Master's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2017,Male,14481.0,,ED7,Master's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2018,Male,15354.0,,ED7,Master's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2019,Male,16931.0,,ED7,Master's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2020,Male,18133.0,,ED7,Master's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2021,Male,20249.0,,ED7,Master's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2022,Male,20767.0,,ED7,Master's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2023,Male,21277.0,,ED7,Master's or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2013,Female,4301.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2015,Female,3780.0,,ED8,Doctoral or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2016,Female,3547.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2017,Female,3039.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2018,Female,3086.0,,ED8,Doctoral or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2019,Female,3553.0,,ED8,Doctoral or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2020,Female,3791.0,,ED8,Doctoral or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2021,Female,4172.0,,ED8,Doctoral or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2022,Female,4794.0,,ED8,Doctoral or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2023,Female,5599.0,,ED8,Doctoral or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2013,Male,4011.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2015,Male,3713.0,,ED8,Doctoral or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2016,Male,3795.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2017,Male,3298.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2018,Male,3384.0,,ED8,Doctoral or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2019,Male,3846.0,,ED8,Doctoral or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2020,Male,4131.0,,ED8,Doctoral or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2021,Male,4472.0,,ED8,Doctoral or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2022,Male,5214.0,,ED8,Doctoral or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2023,Male,5691.0,,ED8,Doctoral or equivalent level,F05,"Natural sciences, mathematics and statistics",STEM
+2013,Female,25.0,,ED5,Short-cycle tertiary education,F06,Information and communication technologies,STEM
+2016,Female,38.0,,ED5,Short-cycle tertiary education,F06,Information and communication technologies,STEM
+2017,Female,208.0,,ED5,Short-cycle tertiary education,F06,Information and communication technologies,STEM
+2018,Female,295.0,,ED5,Short-cycle tertiary education,F06,Information and communication technologies,STEM
+2019,Female,374.0,,ED5,Short-cycle tertiary education,F06,Information and communication technologies,STEM
+2020,Female,450.0,,ED5,Short-cycle tertiary education,F06,Information and communication technologies,STEM
+2021,Female,452.0,,ED5,Short-cycle tertiary education,F06,Information and communication technologies,STEM
+2022,Female,448.0,,ED5,Short-cycle tertiary education,F06,Information and communication technologies,STEM
+2023,Female,573.0,,ED5,Short-cycle tertiary education,F06,Information and communication technologies,STEM
+2013,Male,442.0,,ED5,Short-cycle tertiary education,F06,Information and communication technologies,STEM
+2016,Male,338.0,,ED5,Short-cycle tertiary education,F06,Information and communication technologies,STEM
+2017,Male,808.0,,ED5,Short-cycle tertiary education,F06,Information and communication technologies,STEM
+2018,Male,1217.0,,ED5,Short-cycle tertiary education,F06,Information and communication technologies,STEM
+2019,Male,1583.0,,ED5,Short-cycle tertiary education,F06,Information and communication technologies,STEM
+2020,Male,2105.0,,ED5,Short-cycle tertiary education,F06,Information and communication technologies,STEM
+2021,Male,2436.0,,ED5,Short-cycle tertiary education,F06,Information and communication technologies,STEM
+2022,Male,3057.0,,ED5,Short-cycle tertiary education,F06,Information and communication technologies,STEM
+2023,Male,4144.0,,ED5,Short-cycle tertiary education,F06,Information and communication technologies,STEM
+2013,Female,2706.0,,ED6,Bachelor's or equivalent level,F06,Information and communication technologies,STEM
+2014,Female,2734.0,,ED6,Bachelor's or equivalent level,F06,Information and communication technologies,STEM
+2015,Female,12748.0,,ED6,Bachelor's or equivalent level,F06,Information and communication technologies,STEM
+2016,Female,2831.0,,ED6,Bachelor's or equivalent level,F06,Information and communication technologies,STEM
+2017,Female,3132.0,,ED6,Bachelor's or equivalent level,F06,Information and communication technologies,STEM
+2018,Female,3334.0,,ED6,Bachelor's or equivalent level,F06,Information and communication technologies,STEM
+2019,Female,3666.0,,ED6,Bachelor's or equivalent level,F06,Information and communication technologies,STEM
+2020,Female,3902.0,,ED6,Bachelor's or equivalent level,F06,Information and communication technologies,STEM
+2021,Female,4102.0,,ED6,Bachelor's or equivalent level,F06,Information and communication technologies,STEM
+2022,Female,4417.0,,ED6,Bachelor's or equivalent level,F06,Information and communication technologies,STEM
+2023,Female,4914.0,,ED6,Bachelor's or equivalent level,F06,Information and communication technologies,STEM
+2013,Male,18269.0,,ED6,Bachelor's or equivalent level,F06,Information and communication technologies,STEM
+2014,Male,18601.0,,ED6,Bachelor's or equivalent level,F06,Information and communication technologies,STEM
+2015,Male,58925.0,,ED6,Bachelor's or equivalent level,F06,Information and communication technologies,STEM
+2016,Male,20548.0,,ED6,Bachelor's or equivalent level,F06,Information and communication technologies,STEM
+2017,Male,22119.0,,ED6,Bachelor's or equivalent level,F06,Information and communication technologies,STEM
+2018,Male,23770.0,,ED6,Bachelor's or equivalent level,F06,Information and communication technologies,STEM
+2019,Male,24908.0,,ED6,Bachelor's or equivalent level,F06,Information and communication technologies,STEM
+2020,Male,25942.0,,ED6,Bachelor's or equivalent level,F06,Information and communication technologies,STEM
+2021,Male,26882.0,,ED6,Bachelor's or equivalent level,F06,Information and communication technologies,STEM
+2022,Male,27996.0,,ED6,Bachelor's or equivalent level,F06,Information and communication technologies,STEM
+2023,Male,30082.0,,ED6,Bachelor's or equivalent level,F06,Information and communication technologies,STEM
+2013,Female,785.0,,ED7,Master's or equivalent level,F06,Information and communication technologies,STEM
+2014,Female,676.0,,ED7,Master's or equivalent level,F06,Information and communication technologies,STEM
+2015,Female,1286.0,,ED7,Master's or equivalent level,F06,Information and communication technologies,STEM
+2016,Female,543.0,,ED7,Master's or equivalent level,F06,Information and communication technologies,STEM
+2017,Female,608.0,,ED7,Master's or equivalent level,F06,Information and communication technologies,STEM
+2018,Female,719.0,,ED7,Master's or equivalent level,F06,Information and communication technologies,STEM
+2019,Female,1020.0,,ED7,Master's or equivalent level,F06,Information and communication technologies,STEM
+2020,Female,1276.0,,ED7,Master's or equivalent level,F06,Information and communication technologies,STEM
+2021,Female,1656.0,,ED7,Master's or equivalent level,F06,Information and communication technologies,STEM
+2022,Female,1819.0,,ED7,Master's or equivalent level,F06,Information and communication technologies,STEM
+2023,Female,2010.0,,ED7,Master's or equivalent level,F06,Information and communication technologies,STEM
+2013,Male,3094.0,,ED7,Master's or equivalent level,F06,Information and communication technologies,STEM
+2014,Male,2801.0,,ED7,Master's or equivalent level,F06,Information and communication technologies,STEM
+2015,Male,7565.0,,ED7,Master's or equivalent level,F06,Information and communication technologies,STEM
+2016,Male,2600.0,,ED7,Master's or equivalent level,F06,Information and communication technologies,STEM
+2017,Male,2827.0,,ED7,Master's or equivalent level,F06,Information and communication technologies,STEM
+2018,Male,3374.0,,ED7,Master's or equivalent level,F06,Information and communication technologies,STEM
+2019,Male,4329.0,,ED7,Master's or equivalent level,F06,Information and communication technologies,STEM
+2020,Male,5217.0,,ED7,Master's or equivalent level,F06,Information and communication technologies,STEM
+2021,Male,6138.0,,ED7,Master's or equivalent level,F06,Information and communication technologies,STEM
+2022,Male,6441.0,,ED7,Master's or equivalent level,F06,Information and communication technologies,STEM
+2023,Male,6446.0,,ED7,Master's or equivalent level,F06,Information and communication technologies,STEM
+2013,Female,129.0,,ED8,Doctoral or equivalent level,F06,Information and communication technologies,STEM
+2014,Female,116.0,,ED8,Doctoral or equivalent level,F06,Information and communication technologies,STEM
+2015,Female,250.0,,ED8,Doctoral or equivalent level,F06,Information and communication technologies,STEM
+2016,Female,138.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F06,Information and communication technologies,STEM
+2017,Female,130.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F06,Information and communication technologies,STEM
+2018,Female,122.0,,ED8,Doctoral or equivalent level,F06,Information and communication technologies,STEM
+2019,Female,123.0,,ED8,Doctoral or equivalent level,F06,Information and communication technologies,STEM
+2020,Female,164.0,,ED8,Doctoral or equivalent level,F06,Information and communication technologies,STEM
+2021,Female,192.0,,ED8,Doctoral or equivalent level,F06,Information and communication technologies,STEM
+2022,Female,198.0,,ED8,Doctoral or equivalent level,F06,Information and communication technologies,STEM
+2023,Female,189.0,,ED8,Doctoral or equivalent level,F06,Information and communication technologies,STEM
+2013,Male,359.0,,ED8,Doctoral or equivalent level,F06,Information and communication technologies,STEM
+2014,Male,352.0,,ED8,Doctoral or equivalent level,F06,Information and communication technologies,STEM
+2015,Male,759.0,,ED8,Doctoral or equivalent level,F06,Information and communication technologies,STEM
+2016,Male,512.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F06,Information and communication technologies,STEM
+2017,Male,480.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F06,Information and communication technologies,STEM
+2018,Male,509.0,,ED8,Doctoral or equivalent level,F06,Information and communication technologies,STEM
+2019,Male,384.0,,ED8,Doctoral or equivalent level,F06,Information and communication technologies,STEM
+2020,Male,498.0,,ED8,Doctoral or equivalent level,F06,Information and communication technologies,STEM
+2021,Male,593.0,,ED8,Doctoral or equivalent level,F06,Information and communication technologies,STEM
+2022,Male,698.0,,ED8,Doctoral or equivalent level,F06,Information and communication technologies,STEM
+2023,Male,731.0,,ED8,Doctoral or equivalent level,F06,Information and communication technologies,STEM
+2016,Female,286.0,,ED5,Short-cycle tertiary education,F07,"Engineering, manufacturing and construction",STEM
+2017,Female,292.0,,ED5,Short-cycle tertiary education,F07,"Engineering, manufacturing and construction",STEM
+2018,Female,346.0,,ED5,Short-cycle tertiary education,F07,"Engineering, manufacturing and construction",STEM
+2019,Female,357.0,,ED5,Short-cycle tertiary education,F07,"Engineering, manufacturing and construction",STEM
+2020,Female,361.0,,ED5,Short-cycle tertiary education,F07,"Engineering, manufacturing and construction",STEM
+2021,Female,755.0,,ED5,Short-cycle tertiary education,F07,"Engineering, manufacturing and construction",STEM
+2022,Female,2257.0,,ED5,Short-cycle tertiary education,F07,"Engineering, manufacturing and construction",STEM
+2023,Female,2514.0,,ED5,Short-cycle tertiary education,F07,"Engineering, manufacturing and construction",STEM
+2016,Male,2664.0,,ED5,Short-cycle tertiary education,F07,"Engineering, manufacturing and construction",STEM
+2017,Male,3096.0,,ED5,Short-cycle tertiary education,F07,"Engineering, manufacturing and construction",STEM
+2018,Male,3524.0,,ED5,Short-cycle tertiary education,F07,"Engineering, manufacturing and construction",STEM
+2019,Male,4268.0,,ED5,Short-cycle tertiary education,F07,"Engineering, manufacturing and construction",STEM
+2020,Male,5215.0,,ED5,Short-cycle tertiary education,F07,"Engineering, manufacturing and construction",STEM
+2021,Male,5626.0,,ED5,Short-cycle tertiary education,F07,"Engineering, manufacturing and construction",STEM
+2022,Male,8933.0,,ED5,Short-cycle tertiary education,F07,"Engineering, manufacturing and construction",STEM
+2023,Male,10100.0,,ED5,Short-cycle tertiary education,F07,"Engineering, manufacturing and construction",STEM
+2013,Female,52484.0,,ED6,Bachelor's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2014,Female,51531.0,,ED6,Bachelor's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2015,Female,36219.0,,ED6,Bachelor's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2016,Female,45733.0,,ED6,Bachelor's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2017,Female,45998.0,,ED6,Bachelor's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2018,Female,45901.0,,ED6,Bachelor's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2019,Female,46253.0,,ED6,Bachelor's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2020,Female,47299.0,,ED6,Bachelor's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2021,Female,48007.0,,ED6,Bachelor's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2022,Female,48828.0,,ED6,Bachelor's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2023,Female,51154.0,,ED6,Bachelor's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2013,Male,139829.0,,ED6,Bachelor's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2014,Male,138061.0,,ED6,Bachelor's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2015,Male,93557.0,,ED6,Bachelor's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2016,Male,132966.0,,ED6,Bachelor's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2017,Male,134549.0,,ED6,Bachelor's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2018,Male,136632.0,,ED6,Bachelor's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2019,Male,137948.0,,ED6,Bachelor's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2020,Male,140586.0,,ED6,Bachelor's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2021,Male,142274.0,,ED6,Bachelor's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2022,Male,143173.0,,ED6,Bachelor's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2023,Male,145676.0,,ED6,Bachelor's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2013,Female,41985.0,,ED7,Master's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2014,Female,41556.0,,ED7,Master's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2015,Female,36453.0,,ED7,Master's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2016,Female,37522.0,,ED7,Master's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2017,Female,36709.0,,ED7,Master's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2018,Female,37318.0,,ED7,Master's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2019,Female,37396.0,,ED7,Master's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2020,Female,37337.0,,ED7,Master's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2021,Female,37744.0,,ED7,Master's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2022,Female,37680.0,,ED7,Master's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2023,Female,38608.0,,ED7,Master's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2013,Male,69151.0,,ED7,Master's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2014,Male,68585.0,,ED7,Master's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2015,Male,58025.0,,ED7,Master's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2016,Male,65891.0,,ED7,Master's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2017,Male,65766.0,,ED7,Master's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2018,Male,67798.0,,ED7,Master's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2019,Male,68967.0,,ED7,Master's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2020,Male,69966.0,,ED7,Master's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2021,Male,71420.0,,ED7,Master's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2022,Male,70302.0,,ED7,Master's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2023,Male,70363.0,,ED7,Master's or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2013,Female,2444.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2015,Female,2472.0,,ED8,Doctoral or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2016,Female,2609.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2017,Female,2253.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2018,Female,2311.0,,ED8,Doctoral or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2019,Female,2318.0,,ED8,Doctoral or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2020,Female,2464.0,,ED8,Doctoral or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2021,Female,2737.0,,ED8,Doctoral or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2022,Female,3146.0,,ED8,Doctoral or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2023,Female,3799.0,,ED8,Doctoral or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2013,Male,4652.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2015,Male,4420.0,,ED8,Doctoral or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2016,Male,4676.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2017,Male,3992.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2018,Male,4080.0,,ED8,Doctoral or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2019,Male,4348.0,,ED8,Doctoral or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2020,Male,4764.0,,ED8,Doctoral or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2021,Male,5405.0,,ED8,Doctoral or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2022,Male,6081.0,,ED8,Doctoral or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2023,Male,7262.0,,ED8,Doctoral or equivalent level,F07,"Engineering, manufacturing and construction",STEM
+2013,Female,117.0,,ED5,Short-cycle tertiary education,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2016,Female,322.0,,ED5,Short-cycle tertiary education,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2017,Female,222.0,,ED5,Short-cycle tertiary education,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2018,Female,413.0,,ED5,Short-cycle tertiary education,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2019,Female,458.0,,ED5,Short-cycle tertiary education,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2020,Female,470.0,,ED5,Short-cycle tertiary education,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2021,Female,368.0,,ED5,Short-cycle tertiary education,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2022,Female,668.0,,ED5,Short-cycle tertiary education,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2023,Female,776.0,,ED5,Short-cycle tertiary education,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2013,Male,65.0,,ED5,Short-cycle tertiary education,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2016,Male,596.0,,ED5,Short-cycle tertiary education,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2017,Male,530.0,,ED5,Short-cycle tertiary education,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2018,Male,848.0,,ED5,Short-cycle tertiary education,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2019,Male,1004.0,,ED5,Short-cycle tertiary education,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2020,Male,1055.0,,ED5,Short-cycle tertiary education,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2021,Male,841.0,,ED5,Short-cycle tertiary education,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2022,Male,1547.0,,ED5,Short-cycle tertiary education,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2023,Male,1782.0,,ED5,Short-cycle tertiary education,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2013,Female,13586.0,,ED6,Bachelor's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2014,Female,14689.0,,ED6,Bachelor's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2015,Female,14890.0,,ED6,Bachelor's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2016,Female,15513.0,,ED6,Bachelor's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2017,Female,15526.0,,ED6,Bachelor's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2018,Female,15512.0,,ED6,Bachelor's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2019,Female,14971.0,,ED6,Bachelor's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2020,Female,14464.0,,ED6,Bachelor's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2021,Female,13915.0,,ED6,Bachelor's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2022,Female,13047.0,,ED6,Bachelor's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2023,Female,12504.0,,ED6,Bachelor's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2013,Male,16381.0,,ED6,Bachelor's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2014,Male,17471.0,,ED6,Bachelor's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2015,Male,17934.0,,ED6,Bachelor's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2016,Male,18879.0,,ED6,Bachelor's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2017,Male,19129.0,,ED6,Bachelor's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2018,Male,19193.0,,ED6,Bachelor's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2019,Male,18519.0,,ED6,Bachelor's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2020,Male,17862.0,,ED6,Bachelor's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2021,Male,17167.0,,ED6,Bachelor's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2022,Male,15844.0,,ED6,Bachelor's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2023,Male,14729.0,,ED6,Bachelor's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2013,Female,8684.0,,ED7,Master's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2014,Female,8385.0,,ED7,Master's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2015,Female,8082.0,,ED7,Master's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2016,Female,8139.0,,ED7,Master's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2017,Female,8208.0,,ED7,Master's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2018,Female,7929.0,,ED7,Master's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2019,Female,8236.0,,ED7,Master's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2020,Female,8468.0,,ED7,Master's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2021,Female,8796.0,,ED7,Master's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2022,Female,8660.0,,ED7,Master's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2023,Female,8619.0,,ED7,Master's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2013,Male,6560.0,,ED7,Master's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2014,Male,6395.0,,ED7,Master's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2015,Male,5960.0,,ED7,Master's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2016,Male,6073.0,,ED7,Master's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2017,Male,6000.0,,ED7,Master's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2018,Male,6078.0,,ED7,Master's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2019,Male,6446.0,,ED7,Master's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2020,Male,6608.0,,ED7,Master's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2021,Male,6723.0,,ED7,Master's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2022,Male,6439.0,,ED7,Master's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2023,Male,6279.0,,ED7,Master's or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2013,Female,1058.0,,ED8,Doctoral or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2014,Female,978.0,,ED8,Doctoral or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2015,Female,920.0,,ED8,Doctoral or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2016,Female,948.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2017,Female,746.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2018,Female,751.0,,ED8,Doctoral or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2019,Female,780.0,,ED8,Doctoral or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2020,Female,769.0,,ED8,Doctoral or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2021,Female,825.0,,ED8,Doctoral or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2022,Female,953.0,,ED8,Doctoral or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2023,Female,1197.0,,ED8,Doctoral or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2013,Male,875.0,,ED8,Doctoral or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2014,Male,790.0,,ED8,Doctoral or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2015,Male,674.0,,ED8,Doctoral or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2016,Male,673.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2017,Male,511.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2018,Male,519.0,,ED8,Doctoral or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2019,Male,588.0,,ED8,Doctoral or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2020,Male,626.0,,ED8,Doctoral or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2021,Male,679.0,,ED8,Doctoral or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2022,Male,761.0,,ED8,Doctoral or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2023,Male,889.0,,ED8,Doctoral or equivalent level,F08,"Agriculture, forestry, fisheries and veterinary",Life & Health Sciences
+2013,Female,0.0,,ED5,Short-cycle tertiary education,F09,Health and welfare,Life & Health Sciences
+2016,Female,0.0,,ED5,Short-cycle tertiary education,F09,Health and welfare,Life & Health Sciences
+2017,Female,0.0,,ED5,Short-cycle tertiary education,F09,Health and welfare,Life & Health Sciences
+2018,Female,0.0,,ED5,Short-cycle tertiary education,F09,Health and welfare,Life & Health Sciences
+2019,Female,0.0,,ED5,Short-cycle tertiary education,F09,Health and welfare,Life & Health Sciences
+2020,Female,0.0,,ED5,Short-cycle tertiary education,F09,Health and welfare,Life & Health Sciences
+2021,Female,0.0,,ED5,Short-cycle tertiary education,F09,Health and welfare,Life & Health Sciences
+2022,Female,0.0,,ED5,Short-cycle tertiary education,F09,Health and welfare,Life & Health Sciences
+2023,Female,0.0,,ED5,Short-cycle tertiary education,F09,Health and welfare,Life & Health Sciences
+2013,Male,0.0,,ED5,Short-cycle tertiary education,F09,Health and welfare,Life & Health Sciences
+2016,Male,0.0,,ED5,Short-cycle tertiary education,F09,Health and welfare,Life & Health Sciences
+2017,Male,0.0,,ED5,Short-cycle tertiary education,F09,Health and welfare,Life & Health Sciences
+2018,Male,0.0,,ED5,Short-cycle tertiary education,F09,Health and welfare,Life & Health Sciences
+2019,Male,0.0,,ED5,Short-cycle tertiary education,F09,Health and welfare,Life & Health Sciences
+2020,Male,0.0,,ED5,Short-cycle tertiary education,F09,Health and welfare,Life & Health Sciences
+2021,Male,0.0,,ED5,Short-cycle tertiary education,F09,Health and welfare,Life & Health Sciences
+2022,Male,0.0,,ED5,Short-cycle tertiary education,F09,Health and welfare,Life & Health Sciences
+2023,Male,0.0,,ED5,Short-cycle tertiary education,F09,Health and welfare,Life & Health Sciences
+2013,Female,77471.0,,ED6,Bachelor's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2014,Female,75433.0,,ED6,Bachelor's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2015,Female,75963.0,,ED6,Bachelor's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2016,Female,62242.0,,ED6,Bachelor's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2017,Female,61786.0,,ED6,Bachelor's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2018,Female,63786.0,,ED6,Bachelor's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2019,Female,67491.0,,ED6,Bachelor's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2020,Female,69254.0,,ED6,Bachelor's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2021,Female,71661.0,,ED6,Bachelor's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2022,Female,75531.0,,ED6,Bachelor's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2023,Female,80254.0,,ED6,Bachelor's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2013,Male,32992.0,,ED6,Bachelor's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2014,Male,31797.0,,ED6,Bachelor's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2015,Male,47439.0,,ED6,Bachelor's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2016,Male,45322.0,,ED6,Bachelor's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2017,Male,46875.0,,ED6,Bachelor's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2018,Male,24368.0,,ED6,Bachelor's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2019,Male,24490.0,,ED6,Bachelor's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2020,Male,24355.0,,ED6,Bachelor's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2021,Male,24955.0,,ED6,Bachelor's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2022,Male,26910.0,,ED6,Bachelor's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2023,Male,28773.0,,ED6,Bachelor's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2013,Female,107909.0,,ED7,Master's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2014,Female,108867.0,,ED7,Master's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2015,Female,105732.0,,ED7,Master's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2016,Female,101635.0,,ED7,Master's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2017,Female,101464.0,,ED7,Master's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2018,Female,105893.0,,ED7,Master's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2019,Female,110467.0,,ED7,Master's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2020,Female,116161.0,,ED7,Master's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2021,Female,121923.0,,ED7,Master's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2022,Female,126198.0,,ED7,Master's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2023,Female,131299.0,,ED7,Master's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2013,Male,65508.0,,ED7,Master's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2014,Male,66814.0,,ED7,Master's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2015,Male,68306.0,,ED7,Master's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2016,Male,68800.0,,ED7,Master's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2017,Male,69274.0,,ED7,Master's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2018,Male,68900.0,,ED7,Master's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2019,Male,71899.0,,ED7,Master's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2020,Male,75169.0,,ED7,Master's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2021,Male,78090.0,,ED7,Master's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2022,Male,79787.0,,ED7,Master's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2023,Male,82413.0,,ED7,Master's or equivalent level,F09,Health and welfare,Life & Health Sciences
+2013,Female,3555.0,,ED8,Doctoral or equivalent level,F09,Health and welfare,Life & Health Sciences
+2014,Female,3349.0,,ED8,Doctoral or equivalent level,F09,Health and welfare,Life & Health Sciences
+2015,Female,3274.0,,ED8,Doctoral or equivalent level,F09,Health and welfare,Life & Health Sciences
+2016,Female,3319.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F09,Health and welfare,Life & Health Sciences
+2017,Female,2850.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F09,Health and welfare,Life & Health Sciences
+2018,Female,2905.0,,ED8,Doctoral or equivalent level,F09,Health and welfare,Life & Health Sciences
+2019,Female,2738.0,,ED8,Doctoral or equivalent level,F09,Health and welfare,Life & Health Sciences
+2020,Female,2744.0,,ED8,Doctoral or equivalent level,F09,Health and welfare,Life & Health Sciences
+2021,Female,2790.0,,ED8,Doctoral or equivalent level,F09,Health and welfare,Life & Health Sciences
+2022,Female,3140.0,,ED8,Doctoral or equivalent level,F09,Health and welfare,Life & Health Sciences
+2023,Female,3105.0,,ED8,Doctoral or equivalent level,F09,Health and welfare,Life & Health Sciences
+2013,Male,1904.0,,ED8,Doctoral or equivalent level,F09,Health and welfare,Life & Health Sciences
+2014,Male,1800.0,,ED8,Doctoral or equivalent level,F09,Health and welfare,Life & Health Sciences
+2015,Male,1739.0,,ED8,Doctoral or equivalent level,F09,Health and welfare,Life & Health Sciences
+2016,Male,1700.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F09,Health and welfare,Life & Health Sciences
+2017,Male,1425.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F09,Health and welfare,Life & Health Sciences
+2018,Male,1513.0,,ED8,Doctoral or equivalent level,F09,Health and welfare,Life & Health Sciences
+2019,Male,1500.0,,ED8,Doctoral or equivalent level,F09,Health and welfare,Life & Health Sciences
+2020,Male,1555.0,,ED8,Doctoral or equivalent level,F09,Health and welfare,Life & Health Sciences
+2021,Male,1767.0,,ED8,Doctoral or equivalent level,F09,Health and welfare,Life & Health Sciences
+2022,Male,2051.0,,ED8,Doctoral or equivalent level,F09,Health and welfare,Life & Health Sciences
+2023,Male,2072.0,,ED8,Doctoral or equivalent level,F09,Health and welfare,Life & Health Sciences
+2016,Female,0.0,,ED5,Short-cycle tertiary education,F10,Services,Cross-disciplinary
+2017,Female,661.0,,ED5,Short-cycle tertiary education,F10,Services,Cross-disciplinary
+2018,Female,849.0,,ED5,Short-cycle tertiary education,F10,Services,Cross-disciplinary
+2019,Female,1129.0,,ED5,Short-cycle tertiary education,F10,Services,Cross-disciplinary
+2020,Female,1261.0,,ED5,Short-cycle tertiary education,F10,Services,Cross-disciplinary
+2021,Female,1750.0,,ED5,Short-cycle tertiary education,F10,Services,Cross-disciplinary
+2022,Female,1774.0,,ED5,Short-cycle tertiary education,F10,Services,Cross-disciplinary
+2023,Female,2174.0,,ED5,Short-cycle tertiary education,F10,Services,Cross-disciplinary
+2016,Male,0.0,,ED5,Short-cycle tertiary education,F10,Services,Cross-disciplinary
+2017,Male,810.0,,ED5,Short-cycle tertiary education,F10,Services,Cross-disciplinary
+2018,Male,963.0,,ED5,Short-cycle tertiary education,F10,Services,Cross-disciplinary
+2019,Male,1261.0,,ED5,Short-cycle tertiary education,F10,Services,Cross-disciplinary
+2020,Male,1433.0,,ED5,Short-cycle tertiary education,F10,Services,Cross-disciplinary
+2021,Male,2807.0,,ED5,Short-cycle tertiary education,F10,Services,Cross-disciplinary
+2022,Male,4615.0,,ED5,Short-cycle tertiary education,F10,Services,Cross-disciplinary
+2023,Male,5277.0,,ED5,Short-cycle tertiary education,F10,Services,Cross-disciplinary
+2013,Female,16559.0,,ED6,Bachelor's or equivalent level,F10,Services,Cross-disciplinary
+2014,Female,16264.0,,ED6,Bachelor's or equivalent level,F10,Services,Cross-disciplinary
+2015,Female,0.0,,ED6,Bachelor's or equivalent level,F10,Services,Cross-disciplinary
+2016,Female,209.0,,ED6,Bachelor's or equivalent level,F10,Services,Cross-disciplinary
+2017,Female,255.0,,ED6,Bachelor's or equivalent level,F10,Services,Cross-disciplinary
+2018,Female,17215.0,,ED6,Bachelor's or equivalent level,F10,Services,Cross-disciplinary
+2019,Female,18737.0,,ED6,Bachelor's or equivalent level,F10,Services,Cross-disciplinary
+2020,Female,20036.0,,ED6,Bachelor's or equivalent level,F10,Services,Cross-disciplinary
+2021,Female,21281.0,,ED6,Bachelor's or equivalent level,F10,Services,Cross-disciplinary
+2022,Female,21161.0,,ED6,Bachelor's or equivalent level,F10,Services,Cross-disciplinary
+2023,Female,21186.0,,ED6,Bachelor's or equivalent level,F10,Services,Cross-disciplinary
+2013,Male,21993.0,,ED6,Bachelor's or equivalent level,F10,Services,Cross-disciplinary
+2014,Male,22636.0,,ED6,Bachelor's or equivalent level,F10,Services,Cross-disciplinary
+2015,Male,0.0,,ED6,Bachelor's or equivalent level,F10,Services,Cross-disciplinary
+2016,Male,779.0,,ED6,Bachelor's or equivalent level,F10,Services,Cross-disciplinary
+2017,Male,811.0,,ED6,Bachelor's or equivalent level,F10,Services,Cross-disciplinary
+2018,Male,27099.0,,ED6,Bachelor's or equivalent level,F10,Services,Cross-disciplinary
+2019,Male,30076.0,,ED6,Bachelor's or equivalent level,F10,Services,Cross-disciplinary
+2020,Male,33585.0,,ED6,Bachelor's or equivalent level,F10,Services,Cross-disciplinary
+2021,Male,36332.0,,ED6,Bachelor's or equivalent level,F10,Services,Cross-disciplinary
+2022,Male,37851.0,,ED6,Bachelor's or equivalent level,F10,Services,Cross-disciplinary
+2023,Male,39404.0,,ED6,Bachelor's or equivalent level,F10,Services,Cross-disciplinary
+2013,Female,1967.0,,ED7,Master's or equivalent level,F10,Services,Cross-disciplinary
+2014,Female,1982.0,,ED7,Master's or equivalent level,F10,Services,Cross-disciplinary
+2015,Female,0.0,,ED7,Master's or equivalent level,F10,Services,Cross-disciplinary
+2016,Female,100.0,,ED7,Master's or equivalent level,F10,Services,Cross-disciplinary
+2017,Female,86.0,,ED7,Master's or equivalent level,F10,Services,Cross-disciplinary
+2018,Female,2061.0,,ED7,Master's or equivalent level,F10,Services,Cross-disciplinary
+2019,Female,2423.0,,ED7,Master's or equivalent level,F10,Services,Cross-disciplinary
+2020,Female,3016.0,,ED7,Master's or equivalent level,F10,Services,Cross-disciplinary
+2021,Female,3669.0,,ED7,Master's or equivalent level,F10,Services,Cross-disciplinary
+2022,Female,4403.0,,ED7,Master's or equivalent level,F10,Services,Cross-disciplinary
+2023,Female,4912.0,,ED7,Master's or equivalent level,F10,Services,Cross-disciplinary
+2013,Male,2265.0,,ED7,Master's or equivalent level,F10,Services,Cross-disciplinary
+2014,Male,2446.0,,ED7,Master's or equivalent level,F10,Services,Cross-disciplinary
+2015,Male,0.0,,ED7,Master's or equivalent level,F10,Services,Cross-disciplinary
+2016,Male,481.0,,ED7,Master's or equivalent level,F10,Services,Cross-disciplinary
+2017,Male,456.0,,ED7,Master's or equivalent level,F10,Services,Cross-disciplinary
+2018,Male,3046.0,,ED7,Master's or equivalent level,F10,Services,Cross-disciplinary
+2019,Male,3673.0,,ED7,Master's or equivalent level,F10,Services,Cross-disciplinary
+2020,Male,4640.0,,ED7,Master's or equivalent level,F10,Services,Cross-disciplinary
+2021,Male,5743.0,,ED7,Master's or equivalent level,F10,Services,Cross-disciplinary
+2022,Male,6992.0,,ED7,Master's or equivalent level,F10,Services,Cross-disciplinary
+2023,Male,7339.0,,ED7,Master's or equivalent level,F10,Services,Cross-disciplinary
+2013,Female,22.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F10,Services,Cross-disciplinary
+2015,Female,0.0,,ED8,Doctoral or equivalent level,F10,Services,Cross-disciplinary
+2016,Female,0.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F10,Services,Cross-disciplinary
+2017,Female,0.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F10,Services,Cross-disciplinary
+2018,Female,0.0,,ED8,Doctoral or equivalent level,F10,Services,Cross-disciplinary
+2019,Female,14.0,,ED8,Doctoral or equivalent level,F10,Services,Cross-disciplinary
+2020,Female,4.0,,ED8,Doctoral or equivalent level,F10,Services,Cross-disciplinary
+2021,Female,26.0,,ED8,Doctoral or equivalent level,F10,Services,Cross-disciplinary
+2022,Female,47.0,,ED8,Doctoral or equivalent level,F10,Services,Cross-disciplinary
+2023,Female,24.0,,ED8,Doctoral or equivalent level,F10,Services,Cross-disciplinary
+2013,Male,29.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F10,Services,Cross-disciplinary
+2015,Male,0.0,,ED8,Doctoral or equivalent level,F10,Services,Cross-disciplinary
+2016,Male,0.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F10,Services,Cross-disciplinary
+2017,Male,0.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,F10,Services,Cross-disciplinary
+2018,Male,0.0,,ED8,Doctoral or equivalent level,F10,Services,Cross-disciplinary
+2019,Male,14.0,,ED8,Doctoral or equivalent level,F10,Services,Cross-disciplinary
+2020,Male,11.0,,ED8,Doctoral or equivalent level,F10,Services,Cross-disciplinary
+2021,Male,43.0,,ED8,Doctoral or equivalent level,F10,Services,Cross-disciplinary
+2022,Male,92.0,,ED8,Doctoral or equivalent level,F10,Services,Cross-disciplinary
+2023,Male,16.0,,ED8,Doctoral or equivalent level,F10,Services,Cross-disciplinary
+2013,Female,0.0,,ED5,Short-cycle tertiary education,UNK,Unknown,Unknown
+2015,Female,1637.0,d: definition differs (see metadata),ED5,Short-cycle tertiary education,UNK,Unknown,Unknown
+2016,Female,0.0,,ED5,Short-cycle tertiary education,UNK,Unknown,Unknown
+2017,Female,626.0,,ED5,Short-cycle tertiary education,UNK,Unknown,Unknown
+2018,Female,759.0,,ED5,Short-cycle tertiary education,UNK,Unknown,Unknown
+2019,Female,1034.0,,ED5,Short-cycle tertiary education,UNK,Unknown,Unknown
+2020,Female,1299.0,,ED5,Short-cycle tertiary education,UNK,Unknown,Unknown
+2021,Female,386.0,,ED5,Short-cycle tertiary education,UNK,Unknown,Unknown
+2022,Female,0.0,,ED5,Short-cycle tertiary education,UNK,Unknown,Unknown
+2023,Female,0.0,,ED5,Short-cycle tertiary education,UNK,Unknown,Unknown
+2013,Male,0.0,,ED5,Short-cycle tertiary education,UNK,Unknown,Unknown
+2015,Male,4911.0,d: definition differs (see metadata),ED5,Short-cycle tertiary education,UNK,Unknown,Unknown
+2016,Male,0.0,,ED5,Short-cycle tertiary education,UNK,Unknown,Unknown
+2017,Male,1140.0,,ED5,Short-cycle tertiary education,UNK,Unknown,Unknown
+2018,Male,1375.0,,ED5,Short-cycle tertiary education,UNK,Unknown,Unknown
+2019,Male,1706.0,,ED5,Short-cycle tertiary education,UNK,Unknown,Unknown
+2020,Male,2088.0,,ED5,Short-cycle tertiary education,UNK,Unknown,Unknown
+2021,Male,173.0,,ED5,Short-cycle tertiary education,UNK,Unknown,Unknown
+2022,Male,0.0,,ED5,Short-cycle tertiary education,UNK,Unknown,Unknown
+2023,Male,0.0,,ED5,Short-cycle tertiary education,UNK,Unknown,Unknown
+2013,Female,383.0,,ED6,Bachelor's or equivalent level,UNK,Unknown,Unknown
+2014,Female,2240.0,,ED6,Bachelor's or equivalent level,UNK,Unknown,Unknown
+2015,Female,15577.0,,ED6,Bachelor's or equivalent level,UNK,Unknown,Unknown
+2016,Female,15982.0,,ED6,Bachelor's or equivalent level,UNK,Unknown,Unknown
+2017,Female,20103.0,,ED6,Bachelor's or equivalent level,UNK,Unknown,Unknown
+2018,Female,25207.0,,ED6,Bachelor's or equivalent level,UNK,Unknown,Unknown
+2019,Female,1211.0,,ED6,Bachelor's or equivalent level,UNK,Unknown,Unknown
+2020,Female,0.0,,ED6,Bachelor's or equivalent level,UNK,Unknown,Unknown
+2021,Female,458.0,,ED6,Bachelor's or equivalent level,UNK,Unknown,Unknown
+2022,Female,186.0,,ED6,Bachelor's or equivalent level,UNK,Unknown,Unknown
+2023,Female,6680.0,,ED6,Bachelor's or equivalent level,UNK,Unknown,Unknown
+2013,Male,389.0,,ED6,Bachelor's or equivalent level,UNK,Unknown,Unknown
+2014,Male,1381.0,,ED6,Bachelor's or equivalent level,UNK,Unknown,Unknown
+2015,Male,7984.0,,ED6,Bachelor's or equivalent level,UNK,Unknown,Unknown
+2016,Male,7596.0,,ED6,Bachelor's or equivalent level,UNK,Unknown,Unknown
+2017,Male,9085.0,,ED6,Bachelor's or equivalent level,UNK,Unknown,Unknown
+2018,Male,11459.0,,ED6,Bachelor's or equivalent level,UNK,Unknown,Unknown
+2019,Male,612.0,,ED6,Bachelor's or equivalent level,UNK,Unknown,Unknown
+2020,Male,0.0,,ED6,Bachelor's or equivalent level,UNK,Unknown,Unknown
+2021,Male,356.0,,ED6,Bachelor's or equivalent level,UNK,Unknown,Unknown
+2022,Male,107.0,,ED6,Bachelor's or equivalent level,UNK,Unknown,Unknown
+2023,Male,2943.0,,ED6,Bachelor's or equivalent level,UNK,Unknown,Unknown
+2013,Female,1155.0,,ED7,Master's or equivalent level,UNK,Unknown,Unknown
+2014,Female,2097.0,,ED7,Master's or equivalent level,UNK,Unknown,Unknown
+2015,Female,24906.0,,ED7,Master's or equivalent level,UNK,Unknown,Unknown
+2016,Female,8633.0,,ED7,Master's or equivalent level,UNK,Unknown,Unknown
+2017,Female,8833.0,,ED7,Master's or equivalent level,UNK,Unknown,Unknown
+2018,Female,9166.0,,ED7,Master's or equivalent level,UNK,Unknown,Unknown
+2019,Female,622.0,,ED7,Master's or equivalent level,UNK,Unknown,Unknown
+2020,Female,0.0,,ED7,Master's or equivalent level,UNK,Unknown,Unknown
+2021,Female,537.0,,ED7,Master's or equivalent level,UNK,Unknown,Unknown
+2022,Female,279.0,,ED7,Master's or equivalent level,UNK,Unknown,Unknown
+2023,Female,3669.0,,ED7,Master's or equivalent level,UNK,Unknown,Unknown
+2013,Male,832.0,,ED7,Master's or equivalent level,UNK,Unknown,Unknown
+2014,Male,1608.0,,ED7,Master's or equivalent level,UNK,Unknown,Unknown
+2015,Male,16411.0,,ED7,Master's or equivalent level,UNK,Unknown,Unknown
+2016,Male,6647.0,,ED7,Master's or equivalent level,UNK,Unknown,Unknown
+2017,Male,6782.0,,ED7,Master's or equivalent level,UNK,Unknown,Unknown
+2018,Male,7293.0,,ED7,Master's or equivalent level,UNK,Unknown,Unknown
+2019,Male,424.0,,ED7,Master's or equivalent level,UNK,Unknown,Unknown
+2020,Male,0.0,,ED7,Master's or equivalent level,UNK,Unknown,Unknown
+2021,Male,429.0,,ED7,Master's or equivalent level,UNK,Unknown,Unknown
+2022,Male,267.0,,ED7,Master's or equivalent level,UNK,Unknown,Unknown
+2023,Male,2598.0,,ED7,Master's or equivalent level,UNK,Unknown,Unknown
+2013,Female,295.0,,ED8,Doctoral or equivalent level,UNK,Unknown,Unknown
+2014,Female,429.0,,ED8,Doctoral or equivalent level,UNK,Unknown,Unknown
+2015,Female,459.0,,ED8,Doctoral or equivalent level,UNK,Unknown,Unknown
+2016,Female,1030.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,UNK,Unknown,Unknown
+2017,Female,426.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,UNK,Unknown,Unknown
+2018,Female,411.0,,ED8,Doctoral or equivalent level,UNK,Unknown,Unknown
+2019,Female,384.0,,ED8,Doctoral or equivalent level,UNK,Unknown,Unknown
+2020,Female,474.0,,ED8,Doctoral or equivalent level,UNK,Unknown,Unknown
+2021,Female,0.0,,ED8,Doctoral or equivalent level,UNK,Unknown,Unknown
+2022,Female,24.0,,ED8,Doctoral or equivalent level,UNK,Unknown,Unknown
+2023,Female,236.0,,ED8,Doctoral or equivalent level,UNK,Unknown,Unknown
+2013,Male,314.0,,ED8,Doctoral or equivalent level,UNK,Unknown,Unknown
+2014,Male,348.0,,ED8,Doctoral or equivalent level,UNK,Unknown,Unknown
+2015,Male,429.0,,ED8,Doctoral or equivalent level,UNK,Unknown,Unknown
+2016,Male,896.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,UNK,Unknown,Unknown
+2017,Male,398.0,d: definition differs (see metadata),ED8,Doctoral or equivalent level,UNK,Unknown,Unknown
+2018,Male,367.0,,ED8,Doctoral or equivalent level,UNK,Unknown,Unknown
+2019,Male,368.0,,ED8,Doctoral or equivalent level,UNK,Unknown,Unknown
+2020,Male,505.0,,ED8,Doctoral or equivalent level,UNK,Unknown,Unknown
+2021,Male,0.0,,ED8,Doctoral or equivalent level,UNK,Unknown,Unknown
+2022,Male,20.0,,ED8,Doctoral or equivalent level,UNK,Unknown,Unknown
+2023,Male,315.0,,ED8,Doctoral or equivalent level,UNK,Unknown,Unknown
